@@ -12,4 +12,4 @@ This project shows the difference between the time it takes for a course x compa
 
 # Related project
 
-- []()
+- [a](https://www.youtube.com/watch?v=nKPbfIU442g&t=24993s&pp=ygUJc295IGRhbHRv)
