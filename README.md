@@ -13,3 +13,11 @@ This project shows the difference between the time it takes for a course x compa
 # Related project
 
 - [python-project-prime-numbers-dalto](https://github.com/kevin-pb/python-project-prime-numbers-dalto)
+
+- [proyect-fibonacci-dalto](https://github.com/kevin-pb/python-proyect-dalto-class-organitation-dalto)
+
+- [python-proyect-dalto-class-organitation](https://github.com/kevin-pb/proyect-fibonacci-dalto)
+
+- [python-proyect-dalto-class-organitation](https://github.com/kevin-pb/python-proyect-dalto-class-organitation-dalto)
+
+- [python-proyect-dalto-class-organitation](https://github.com/kevin-pb/python-proyect-dalto-class-organitation-dalto)
